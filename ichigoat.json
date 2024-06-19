@@ -63,10 +63,10 @@
         "#a79ab3"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-        "#e0def4"
+        "#ff8600"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-        "#F4EAE5"
+        "#ff8600
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
         "#26233a"
@@ -75,12 +75,12 @@
         "#21202e"
         ],
       "BACKGROUND_PRIMARY": [
-          "#ff8600",
-          "#ff8600"
+          "#161519",
+          "#161519"
       ],
       "BACKGROUND_SECONDARY": [
-          "#ff8600",
-          "#ff8600"
+          "#282237",
+          "#29272E"
       ],
       "BACKGROUND_SECONDARY_ALT": [
           "#0E0D10",
