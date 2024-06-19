@@ -27,24 +27,24 @@
           "#ff0000"
       ],
       "TEXT_MUTED": [
-          "#A9966A",
-          "#C8B68E"
+          "#0003ff",
+          "#0003ff"
       ],
       "INTERACTIVE_NORMAL": [
-          "#d8c28f",
-          "#d8c28f"
+          "#ff0000",
+          "#ff0000"
       ],
       "INTERACTIVE_HOVER": [
-          "#d8c28f",
-          "#d8c28f"
+          "#0003ff",
+          "#0003ff"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#CFBA89",
-          "#d8c28f"
+          "#0003ff",
+          "#0003ff"
       ],
       "INTERACTIVE_MUTED": [
-          "#544A70",
-          "#c9bbc8"
+          "#0003ff",
+          "#0003ff"
       ],
 
       "MENTION_FOREGROUND": [
