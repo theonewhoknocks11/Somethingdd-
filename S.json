@@ -23,12 +23,12 @@
         ],
         
       "TEXT_NORMAL": [
-          "#ff7800",
-          "#ff7800"
+          "#33ff00",
+          "#33ff00"
       ],
       "TEXT_MUTED": [
-          "#ff7800",
-          "#ff7800"
+          "#33ff00",
+          "#33ff00"
       ],
       "INTERACTIVE_NORMAL": [
           "#ff7800",
@@ -166,8 +166,8 @@
           "1a1926"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-          "#fff",
-          "#fff"
+          "#33ff00",
+          "#33ff00"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
           "#111111",
@@ -178,12 +178,12 @@
           "#7c6ea7"
       ],
       "TEXT_LINK": [
-          "#ff7800",
-          "#ff7800"
+          "#33ff00",
+          "#33ff00"
       ],
       "KEYBOARD": [
-          "#ff7800",
-          "#ff7800"
+          "#33ff00",
+          "#33ff00"
       ],
       "CHANNEL_ICON": [
           "#ff7800",
